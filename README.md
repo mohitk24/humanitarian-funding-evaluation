@@ -3,8 +3,8 @@
 > A comprehensive collection of United Nations datasets covering how global humanitarian aid is raised, allocated, and deployed — from donor pledges to on-the-ground projects.
 
 Authors:
-- [Aravindhan Anbazhagan]([url](https://github.com/aravindhan-a))
-- [Mohit Karangutkar]([url](https://github.com/mohitk24)) (me)
+- [Aravindhan Anbazhagan](https://github.com/aravindhan-a)
+- [Mohit Karangutkar](https://github.com/mohitk24) (me)
 
 🎥 **Presentation video:** https://www.youtube.com/watch?v=WkQN94EvdBY
 
